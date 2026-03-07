@@ -8,4 +8,4 @@ You train the model
 
 You test the model
 
-Visualize the data using starter slot
+Visualize the data using scatter plot
