@@ -1,7 +1,9 @@
 # Alicia-Love-ML-Course-6262-21488-ITAI-1371
 
-I am a student majoring in Artifical Intelligence and Robotics acquiring my A.A.S. I am acquiring degree to remain relevant and 
-acquire a job in this field. As I 
+About Me
+I am a project management professional transitioning into the world of data engineering and database development. What began as a curiosity about Oracle SQL and advanced Excel quickly evolved into a deep appreciation for how data is extracted, transformed, and loaded to create meaningful information. The logic, structure, and problem solving involved in preparing data feels like working through a complex equation—challenging, creative, and incredibly rewarding.
+My academic journey expanded when I enrolled in Houston Community College’s Artificial Intelligence and Robotics program, a pilot pathway that builds from an A.A.S. to a bachelor’s degree. My early coursework, Database Theory and Design, Introduction to Machine Learning, and Artificial Intelligence History, gave me a strong foundation in database modeling, SQL (DDL/DML), PL/SQL concepts, supervised and unsupervised learning, feature engineering, algorithm selection, neural networks, and AI platforms. These courses strengthened my technical thinking and reinforced my passion for data driven problem solving.
+Learning Python and working through hands on exercises in exploratory data analysis (EDA) opened new doors for me. I discovered how much I enjoy cleaning data, identifying anomalies, ensuring data integrity, and conceptualizing solutions that support real world applications.
+Professionally, I bring the discipline and leadership of a certified Project Management Professional (PMP), earned in 2016. I hold a Bachelor of Business Administration in Accounting and an MBA in Global Business Administration from the University of Houston–Victoria. My background in operations, analytics, and project leadership complement my growing technical expertise, allowing me to bridge business needs with data centric solutions.
+I am committed to continuous learning, technical excellence, and building a career that blends analytical thinking, structured problem solving, and the transformative power of data.
 
-My profession is a project manager acquired from Project Management Institution in 2016. Currently I hold a Bachelor in Business Administration in Accounting. 
-Also, I earned my MBA in Global Business Administration at University of Houston-Victoria. 
