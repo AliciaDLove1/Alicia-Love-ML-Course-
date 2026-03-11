@@ -1,1 +1,4 @@
-# Alicia-Love-ML-Course-
+# Alicia-Love-ML-Course-6262-21488-ITAI-1371
+Module 1 focused on establishing the foundations of setting up a GitHub account, creating a repository, and uploading a simple file from Jupyter Notebook and a text file. I chose to upload both to gain hands on experience with different file types and workflows.
+The purpose of this assignment was to understand how GitHub will be used throughout the course and to begin building the habits required for managing machine learning projects. Learning GitHub’s core functionalities, storing code in the cloud, tracking changes, collaborating with others, and showcasing work to future employers, is essential for anyone entering the fields of AI, data science, or software development.
+Although I am still a novice, I am enjoying the process. Becoming comfortable with GitHub will strengthen my technical skillset and support my long term goals in artificial intelligence and machine learning.
