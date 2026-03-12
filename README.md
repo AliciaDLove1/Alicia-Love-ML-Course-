@@ -12,3 +12,4 @@ Professionally, I bring the discipline and leadership of a certified Project Man
 
 I am committed to continuous learning, technical excellence, and building a career that blends analytical thinking, structured problem solving, and the transformative power of data.
 
+This repository contains my completed work for Machine Learning Modules 1 and 2. Module 1 did not include a lab component, but Module 2 includes both a lab and an assignment. In the Lab 1 overview, you will notice a repetition of the work from Assignment 1, since the lab reinforces the same foundational skills introduced earlier. 
